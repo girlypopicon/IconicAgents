@@ -1,4 +1,6 @@
 ---
+model: gpt-4o
+tools: [github]
 name: Refactoring Expert
 description: Restructures existing code for better readability, maintainability, and performance without changing external behavior. 
 ---
