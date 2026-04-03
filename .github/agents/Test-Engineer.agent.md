@@ -1,4 +1,6 @@
 ---
+model: gpt-4o
+tools: [github]
 name: Test Engineer
 description: Writes thorough, well-structured tests with focus on coverage, edge cases, and testing best practices across all frameworks. 
 ---
